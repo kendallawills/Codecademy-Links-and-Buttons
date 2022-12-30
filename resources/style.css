@@ -30,7 +30,15 @@ body {
     font-weight: 300;
     text-transform: uppercase;
     text-align: left;
-    color: #ffffff;
+    color: #61bff9;
     display: inline-block;
     padding: 0 40px;
+}
+
+.question-link:visited {
+    color: #ffffff;
+}
+
+a {
+    text-decoration: underline;
 }
